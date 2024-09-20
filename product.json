@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "nombre":"Cafe capuccino",
+        "precio":1800,
+        "img":"../multimedia/capuccino.jpg",
+        "cantidad":1
+    },
+    {
+        "id":2,
+        "nombre":"Cafe expreso",
+        "precio":1800,
+        "img":"../multimedia/expreso.webp",
+        "cantidad":1
+    },
+    {
+        "id":3,
+        "nombre":"Cafe frapuccino",
+        "precio":2000,
+        "img":"../multimedia/frapuccino.avif",
+        "cantidad":1
+    },
+    {
+        "id":4,
+        "nombre":"Cafe macchiatto",
+        "precio":2100,
+        "img":"../multimedia/macchiatto.webp",
+        "cantidad":1
+    },
+    {
+        "id":5,
+        "nombre":"Cafe Latte",
+        "precio":2000,
+        "img":"../multimedia/desk.webp",
+        "cantidad":1
+    },
+    {
+        "id":6,
+        "nombre":"Cafe con Leche",
+        "precio":1900,
+        "img":"../multimedia/cafe con leche.jpg",
+        "cantidad":1
+    },
+    {
+        "id":7,
+        "nombre":"Cafe Mocca",
+        "precio":1900,
+        "img":"../multimedia/mocca.jpg",
+        "cantidad":1
+    },
+    {
+        "id":8,
+        "nombre":"Submarino",
+        "precio":1800,
+        "img":"../multimedia/submarino.jpeg",
+        "cantidad":1
+    },
+    {
+        "id":9,
+        "nombre":"Cafe Frio",
+        "precio":1900,
+        "img":"../multimedia/cafe frio.jpg",
+        "cantidad":1
+    },
+    {
+        "id":10,
+        "nombre":"Licuado de Frutilla ",
+        "precio":1900,
+        "img":"../multimedia/smoothie_pepino.jpg",
+        "cantidad":1
+    },
+    {
+        "id":11,
+        "nombre":"Licuado de Banana ",
+        "precio":2000,
+        "img":"../multimedia/Licuados.webp",
+        "cantidad":1
+    },
+    {
+        "id":12,
+        "nombre":"Licuado de Manzana y Pepino ",
+        "precio":2000,
+        "img":"../multimedia/zumo-de-manzana-y-pepino.jpg",
+        "cantidad":1
+    }
+]
